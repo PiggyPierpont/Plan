@@ -6,7 +6,7 @@
 - linux bash [=========>] 0%
 - linux shell script [=========>] 0%
 - C++ [#####====>] 50%
-- exercises [###======>] 30%
+- exercises [######===>] 60%
 
 ## pierpont
 
