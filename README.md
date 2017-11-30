@@ -3,7 +3,7 @@
 ## piggy
 
 - C++ [=========>] 0%
-- leetcode [######===>] 60%
+- leetcode [#########>] 100%
 
 ## pierpont
 
