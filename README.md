@@ -1,4 +1,11 @@
-# Plan
+# Week's Plan
 
-- expert of view UI [====================>] 0%
-- Leetcode [====================>] 0%
+## piggy
+
+- C++ about class [#########>] 90%
+- leetcode [###======>] 30%
+
+## pierpont
+
+- expert of view UI [=========>] 0%
+- Leetcode [=========>] 0%
