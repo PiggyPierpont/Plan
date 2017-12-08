@@ -3,7 +3,7 @@
 ## piggy
 
 - C++ about class [##########] 100%
-- leetcode [#######==>] 70%
+- leetcode [##########] 100%
 
 ## pierpont
 
