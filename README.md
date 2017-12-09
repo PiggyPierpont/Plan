@@ -2,8 +2,8 @@
 
 ## piggy
 
-- C++ about class [#########>] 90%
-- leetcode [###======>] 30%
+- C++ about class [##########] 100%
+- leetcode [##########] 100%
 
 ## pierpont
 
