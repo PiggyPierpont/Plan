@@ -1,5 +1,7 @@
-# November 
+# December
 
-- Essay about C [###================>] 15%
-- C++ [#########==========>] 48%
+- Essay about C [######=============>] 30%
+- C++ [#########==========>] 52%
 - Schedule program [===================>] 0%
+- Leetcode [###################>] 100%
+- auto make gitbook project script [###################>] 100%
