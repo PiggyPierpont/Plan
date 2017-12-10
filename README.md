@@ -2,10 +2,5 @@
 
 ## piggy
 
-- C++ about class [##########] 100%
-- leetcode [##########] 100%
-
-## pierpont
-
-- expert of view UI [=========>] 0%
-- Leetcode [=========>] 0%
+- unix network programming [=========>] 0%
+- leetcode [=========>] 0%
