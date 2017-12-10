@@ -1,8 +1,6 @@
 # December
 
-- Essay about C [######=============>] 30%
-- C++ [#########==========>] 52%
-- Schedule program [===================>] 0%
-- Leetcode [###################>] 100%
-- auto make gitbook project script [###################>] 100%
-
+- Essay about C [##########] 100%
+- C++ [######===>] 60%
+- unix network programming [=========>] 0%
+- Schedule program [==========>] 0%
