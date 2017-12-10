@@ -7,5 +7,5 @@
 
 ## pierpont
 
-- expert of view UI [=========>] 0%
-- Leetcode [=========>] 0%
+- expert of view UI [#========>] 5%
+- Leetcode [######===>] 66%
