@@ -2,5 +2,5 @@
 
 ## pierpont
 
-- UI of Android [###=======>] 30%
-- Leetcode [=========>] 0%
+- UI of Android [####======>] 35%
+- Leetcode [##########>] 0%
