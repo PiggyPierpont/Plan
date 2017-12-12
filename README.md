@@ -2,8 +2,7 @@
 
 ## piggy
 
-- TCP/IP [=========>] 0%
-- TCP programming basis [=========>] 0%
+- TCP programming basis [##=======>] 20%
 - leetcode [###======>] 30%
 
 ## pierpont
