@@ -3,7 +3,7 @@
 ## piggy
 
 - TCP programming basis [##########] 100%
-- leetcode [#######==>] 70%
+- leetcode [##########] 100%
 
 ## pierpont
 
