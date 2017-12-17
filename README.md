@@ -2,10 +2,6 @@
 
 ## piggy
 
-- TCP programming basis [##########] 100%
-- leetcode [##########] 100%
-
-## pierpont
-
-- UI of Android [###=======>] 30%
-- Leetcode [=========>] 0%
+- unix network programming(to chapter 7) [=========>] 0%
+- linux about bash [=========>] 0%
+- leetcode [=========>] 0%
