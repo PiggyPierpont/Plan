@@ -2,9 +2,9 @@
 
 ## piggy
 
-- unix network programming(to chapter 7) [=========>] 0%
+- unix network programming(to chapter 7) [####=====>] 40%
 - linux about bash [=========>] 0%
-- leetcode [=========>] 0%
+- leetcode [###======>] 30%
 
 ## pierpont
 
