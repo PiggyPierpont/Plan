@@ -3,4 +3,4 @@
 ## pierpont
 
 - Android [######====>] 50%
-- Leetcode [##########>] 100%
+- Leetcode [==========>] 0%
