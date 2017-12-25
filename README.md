@@ -2,5 +2,5 @@
 
 ## pierpont
 
-- Android [######====>] 50%
-- Leetcode [==========>] 0%
+- Android
+- Leetcode
