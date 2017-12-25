@@ -2,6 +2,6 @@
 
 ## piggy
 
-- linux about bash [=========>] 0%
-- leetcode [=========>] 0%
-- review network programming [=========>] 0%
+- linux about bash
+- leetcode
+- review network programming
