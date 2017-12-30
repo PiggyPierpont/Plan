@@ -2,6 +2,5 @@
 
 ## piggy
 
-- linux about bash
 - leetcode
-- review network programming
+- unix network programming practice
